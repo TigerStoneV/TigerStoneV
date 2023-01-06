@@ -1,6 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=Tiger%StoneV&animation=fadeIn&fontColor=fefeff)
-<div align=center font-size='26px' font-weight=bold>🚀 Skills 🚀</div>
+<div align=center font-size='26px' font-weight=bold margin-bottom=20px>🚀 Skills 🚀</div>
 <div align=center>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
