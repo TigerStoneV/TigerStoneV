@@ -1,6 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=Tiger%StoneV&animation=fadeIn&fontColor=fefeff)
-<div align=center font-size='26px' font-weight=bold margin-bottom=20px>🚀 Skills 🚀</div>
+<div align=center> <h2>🚀 Skills 🚀 </h2></div>
 <div align=center>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
@@ -13,6 +13,9 @@
 	<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
+	<br/>
+	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
+	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 </div>
 <!--
 **TigerStoneV/TigerStoneV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
