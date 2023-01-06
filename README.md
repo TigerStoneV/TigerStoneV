@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=rect&text=Tiger%StoneV&animation=fadeIn&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Tiger%StoneV&animation=fadeIn&fontColor=white)
 <!--
 **TigerStoneV/TigerStoneV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
